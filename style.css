@@ -8,6 +8,8 @@ header {
     text-align: center;
     margin: 0;
     padding: 0;
+    font-size: 50px;
+    font: bold;
 }
 button {
     background-color: rgb(59, 133, 198);
