@@ -1,0 +1,18 @@
+body,html {
+    background-color:hsl(186, 100%, 92%);
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color:rgb(255, 234, 0) ;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+button {
+    background-color: rgb(59, 133, 198);
+    color:aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
